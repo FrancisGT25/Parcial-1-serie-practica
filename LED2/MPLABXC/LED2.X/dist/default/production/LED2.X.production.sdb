@@ -1,0 +1,26 @@
+[p LITE_MODE AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F84A ]
+[d frameptr 6 ]
+"62 C:\Program Files (x86)\Microchip\xc8\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 1 0 ]
+"39
+[v _memcpyee memcpyee `(v  1 e 1 0 ]
+"30 G:\PROYECTOS CON MICROCONTROLADORES\Proyectos con Microcontroladores PIC\1. MikroIngeniería - Proyectos con Microcontroladores\01. LED\LED2\MPLABXC\LED2.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"208 C:\Program Files (x86)\Microchip\xc8\include\pic16f84a.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"496
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"28 G:\PROYECTOS CON MICROCONTROLADORES\Proyectos con Microcontroladores PIC\1. MikroIngeniería - Proyectos con Microcontroladores\01. LED\LED2\MPLABXC\LED2.X\main.c
+[v _i i `i  1 e 2 0 ]
+"30
+[v _main main `(v  1 e 1 0 ]
+{
+"46
+} 0

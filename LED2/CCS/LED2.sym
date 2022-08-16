@@ -1,0 +1,51 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+009-00A @READ_PROGRAM_MEMORY8.P1
+00C     @SCRATCH
+00D     @SCRATCH
+00D     _RETURN_
+00E     @SCRATCH
+00F     @SCRATCH
+010     i
+011     main.@SCRATCH1
+012     @delay_ms1.P1
+
+ROM Allocation:
+000004  @delay_ms1
+000018  @cinit1
+000018  main
+00001B  @cinit2
+
+Project Directory:
+    E:\PROYECTOS CON MICROCONTROLADORES\Proyectos con Microcontroladores\3. MikroIngeniería - Proyectos con Microcontroladores\01. LED\LED2\CCS\
+
+Project Files:
+    LED2.c                                                  [23-Set.-16 14:16  CRC=DD880598]
+    C:\Program Files (x86)\PICC\Devices\16f84a.h            [26-Jun.-15 10:08  CRC=ADDDA080]
+
+Source signature=39434698
+Program memory checksum=0000
+Program memory CRC=0000
+Hex file CRC=B9BC
+
+Units:
+    LED2 (main)
+
+Compiler Settings:
+    Processor:      PIC16F84A
+    Pointer Size:   8
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   LED2.xsym
+    Errors:      LED2.err
+    Ext Symbols: LED2.esym
+    INHX8:       LED2.hex
+    Symbols:     LED2.sym
+    List:        LED2.lst
+    Debug/COFF:  LED2.cof
+    Project:     LED2.ccspjt
+    Call Tree:   LED2.tre
+    Statistics:  LED2.STA
